@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithms.iml" filepath="$PROJECT_DIR$/algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" filepath="$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" filepath="$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" />
+    </modules>
+  </component>
+</project>
