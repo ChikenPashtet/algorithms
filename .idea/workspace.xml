@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be54ffd-09d4-4e6f-bae9-830371f04f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -87,13 +88,13 @@
       <screen x="0" y="25" width="1440" height="820" />
     </state>
     <state width="1157" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1675944187329" />
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1676001457944">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1676131388588">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1676001457944" />
-    <state x="129" y="54" key="new project wizard" timestamp="1676001483298">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1676131388588" />
+    <state x="129" y="54" key="new project wizard" timestamp="1676131747577">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1676001483298" />
+    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1676131747577" />
   </component>
 </project>
