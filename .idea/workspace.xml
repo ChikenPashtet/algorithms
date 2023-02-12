@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be54ffd-09d4-4e6f-bae9-830371f04f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contains_duplicate/contains_duplicate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missing_number/missing_number.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplify_path/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simplify_path/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +38,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="simplify_path" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="find_all_numbers_disappeared_in_an_array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -53,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
       </list>
@@ -72,29 +82,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1157" height="209" key="GridCell.Tab.0.bottom" timestamp="1675944187330">
+    <state width="1157" height="209" key="GridCell.Tab.0.bottom" timestamp="1676227973360">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1675944187330" />
-    <state width="1157" height="209" key="GridCell.Tab.0.center" timestamp="1675944187329">
+    <state width="1157" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1676227973360" />
+    <state width="1157" height="209" key="GridCell.Tab.0.center" timestamp="1676227973359">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1675944187329" />
-    <state width="1157" height="209" key="GridCell.Tab.0.left" timestamp="1675944187328">
+    <state width="1157" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1676227973359" />
+    <state width="1157" height="209" key="GridCell.Tab.0.left" timestamp="1676227973359">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1675944187328" />
-    <state width="1157" height="209" key="GridCell.Tab.0.right" timestamp="1675944187329">
+    <state width="1157" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1676227973359" />
+    <state width="1157" height="209" key="GridCell.Tab.0.right" timestamp="1676227973360">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1675944187329" />
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1676131388588">
+    <state width="1157" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1676227973360" />
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1676224833547">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1676131388588" />
-    <state x="129" y="54" key="new project wizard" timestamp="1676131747577">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1676224833547" />
+    <state x="129" y="54" key="new project wizard" timestamp="1676227852032">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1676131747577" />
+    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1676227852032" />
   </component>
 </project>
