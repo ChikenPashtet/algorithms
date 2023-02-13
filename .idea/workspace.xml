@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be54ffd-09d4-4e6f-bae9-830371f04f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contains_duplicate/contains_duplicate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missing_number/missing_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single_number/single_number.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/simplify_path/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/simplify_path/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,29 +80,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1157" height="209" key="GridCell.Tab.0.bottom" timestamp="1676227973360">
+    <state width="1157" height="209" key="GridCell.Tab.0.bottom" timestamp="1676229035862">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1676227973360" />
-    <state width="1157" height="209" key="GridCell.Tab.0.center" timestamp="1676227973359">
+    <state width="1157" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1676229035862" />
+    <state width="1157" height="209" key="GridCell.Tab.0.center" timestamp="1676229035861">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1676227973359" />
-    <state width="1157" height="209" key="GridCell.Tab.0.left" timestamp="1676227973359">
+    <state width="1157" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1676229035861" />
+    <state width="1157" height="209" key="GridCell.Tab.0.left" timestamp="1676229035860">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1676227973359" />
-    <state width="1157" height="209" key="GridCell.Tab.0.right" timestamp="1676227973360">
+    <state width="1157" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1676229035860" />
+    <state width="1157" height="209" key="GridCell.Tab.0.right" timestamp="1676229035861">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1676227973360" />
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1676224833547">
+    <state width="1157" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1676229035861" />
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1676312812585">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1676224833547" />
-    <state x="129" y="54" key="new project wizard" timestamp="1676227852032">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1676312812585" />
+    <state x="129" y="54" key="new project wizard" timestamp="1676304920472">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1676227852032" />
+    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1676304920472" />
   </component>
 </project>

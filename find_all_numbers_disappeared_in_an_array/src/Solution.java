@@ -3,17 +3,25 @@ import java.util.List;
 
 public class Solution {
     public static List<Integer> findDisappearedNumbers(int[] nums) {
+        int i = 0;
         List<Integer> list = new ArrayList<>();
-        List<Integer> endList = new ArrayList<>();
-        for (int c : nums) {
-            list.add(c);
-        }
-        for (int i = 1; i <= nums.length; i++) {
-            if (!list.contains(i)) {
-                endList.add(i);
+        while (i < nums.length){
+            int pos = nums[i]-1;
+            if (nums[pos] != nums[i]){
+                int temp = nums[pos];
+                nums[pos] = nums[i];
+                nums[i] = temp;
+            }
+            else{
+                i++;
             }
         }
-        return endList;
+        for(int c = 0; c < nums.length; c++){
+            if (nums[c] != c + 1){
+                list.add(c + 1);
+            }
+        }
+        return list;
     }
 }
 

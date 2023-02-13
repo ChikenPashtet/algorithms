@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/missing_number/missing_number.iml" filepath="$PROJECT_DIR$/missing_number/missing_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome_linked_list/palindrome_linked_list.iml" filepath="$PROJECT_DIR$/palindrome_linked_list/palindrome_linked_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplify_path/simplify_path.iml" filepath="$PROJECT_DIR$/simplify_path/simplify_path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single_number/single_number.iml" filepath="$PROJECT_DIR$/single_number/single_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" filepath="$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" filepath="$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" />
     </modules>
