@@ -1,19 +1,16 @@
 import java.util.HashSet;
 
 public class Solution {
-    public int singleNumber(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
-        int result = 0;
-        for (int c : nums) {
-            if (set.contains(c)) {
-                set.remove(c);
-            } else {
-                set.add(c);
-            }
+    public static void main(String[] args) {
+        System.out.println(singleNumber(new int[]{4,1,2,1,2}));
+    }
+    public static int singleNumber(int[] nums) {
+        int mask = 0;
+        for (int c : nums){
+            mask = mask ^ c;
+            System.out.println("mask = "+mask + ", c = "+c);
+
         }
-        for (int c : set) {
-            result = c;
-        }
-        return result;
+        return mask;
     }
 }
