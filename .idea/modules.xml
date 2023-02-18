@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" filepath="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" filepath="$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" filepath="$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest_common_prefix/longest_common_prefix.iml" filepath="$PROJECT_DIR$/longest_common_prefix/longest_common_prefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" filepath="$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/missing_number/missing_number.iml" filepath="$PROJECT_DIR$/missing_number/missing_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome_linked_list/palindrome_linked_list.iml" filepath="$PROJECT_DIR$/palindrome_linked_list/palindrome_linked_list.iml" />
