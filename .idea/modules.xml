@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/add_two_numbers/add_two_numbers.iml" filepath="$PROJECT_DIR$/add_two_numbers/add_two_numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithms.iml" filepath="$PROJECT_DIR$/algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.iml" filepath="$PROJECT_DIR$/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.iml" />
       <module fileurl="file://$PROJECT_DIR$/climbing_stairs/climbing_stairs.iml" filepath="$PROJECT_DIR$/climbing_stairs/climbing_stairs.iml" />
