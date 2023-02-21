@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/climbing_stairs/climbing_stairs.iml" filepath="$PROJECT_DIR$/climbing_stairs/climbing_stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/concatenation_of_array/concatenation_of_array.iml" filepath="$PROJECT_DIR$/concatenation_of_array/concatenation_of_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/contains_duplicate/contains_duplicate.iml" filepath="$PROJECT_DIR$/contains_duplicate/contains_duplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convert_the_temperature/convert_the_temperature.iml" filepath="$PROJECT_DIR$/convert_the_temperature/convert_the_temperature.iml" />
       <module fileurl="file://$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" filepath="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" filepath="$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" filepath="$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" />
