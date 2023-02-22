@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be54ffd-09d4-4e6f-bae9-830371f04f45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/number_of_steps_to_reduce_a_number_to_zero/number_of_steps_to_reduce_a_number_to_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subsets/subsets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert_the_temperature/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/convert_the_temperature/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,24 +37,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="convert_the_temperature" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="find_all_numbers_disappeared_in_an_array" />
+      <module name="number_of_steps_to_reduce_a_number_to_zero" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="single_number" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="best_time_to_buy_and_sell_stock" />
+      <module name="beautiful_arrangement" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -93,33 +97,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1157" height="209" key="GridCell.Tab.0.bottom" timestamp="1676878851591">
+    <state width="1157" height="260" key="GridCell.Tab.0.bottom" timestamp="1677057532623">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1676878851591" />
+    <state width="1157" height="260" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1677057532623" />
     <state width="1157" height="209" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1676386793482" />
-    <state width="1157" height="209" key="GridCell.Tab.0.center" timestamp="1676878851591">
+    <state width="1157" height="260" key="GridCell.Tab.0.center" timestamp="1677057532622">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1676878851591" />
+    <state width="1157" height="260" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1677057532622" />
     <state width="1157" height="209" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1676386793481" />
-    <state width="1157" height="209" key="GridCell.Tab.0.left" timestamp="1676878851590">
+    <state width="1157" height="260" key="GridCell.Tab.0.left" timestamp="1677057532621">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1676878851590" />
+    <state width="1157" height="260" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1677057532621" />
     <state width="1157" height="209" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1676386793481" />
-    <state width="1157" height="209" key="GridCell.Tab.0.right" timestamp="1676878851591">
+    <state width="1157" height="260" key="GridCell.Tab.0.right" timestamp="1677057532623">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state width="1157" height="209" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1676878851591" />
+    <state width="1157" height="260" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1677057532623" />
     <state width="1157" height="209" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1676386793482" />
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1676989373318">
+    <state width="1157" height="260" key="GridCell.Tab.1.bottom" timestamp="1677057532883">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1676989373318" />
-    <state x="129" y="54" key="new project wizard" timestamp="1676989399031">
+    <state width="1157" height="260" key="GridCell.Tab.1.bottom/0.25.1440.820@0.25.1440.820" timestamp="1677057532883" />
+    <state width="1157" height="260" key="GridCell.Tab.1.center" timestamp="1677057532882">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1676989399031" />
+    <state width="1157" height="260" key="GridCell.Tab.1.center/0.25.1440.820@0.25.1440.820" timestamp="1677057532882" />
+    <state width="1157" height="260" key="GridCell.Tab.1.left" timestamp="1677057532882">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1157" height="260" key="GridCell.Tab.1.left/0.25.1440.820@0.25.1440.820" timestamp="1677057532882" />
+    <state width="1157" height="260" key="GridCell.Tab.1.right" timestamp="1677057532883">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1157" height="260" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1677057532883" />
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1677044453069">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1677044453069" />
+    <state x="129" y="54" key="new project wizard" timestamp="1677056610202">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1677056610202" />
   </component>
 </project>
