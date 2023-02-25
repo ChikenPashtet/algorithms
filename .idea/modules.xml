@@ -8,13 +8,17 @@
       <module fileurl="file://$PROJECT_DIR$/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.iml" filepath="$PROJECT_DIR$/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.iml" />
       <module fileurl="file://$PROJECT_DIR$/climbing_stairs/climbing_stairs.iml" filepath="$PROJECT_DIR$/climbing_stairs/climbing_stairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/concatenation_of_array/concatenation_of_array.iml" filepath="$PROJECT_DIR$/concatenation_of_array/concatenation_of_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/container_with_most_water/container_with_most_water.iml" filepath="$PROJECT_DIR$/container_with_most_water/container_with_most_water.iml" />
       <module fileurl="file://$PROJECT_DIR$/contains_duplicate/contains_duplicate.iml" filepath="$PROJECT_DIR$/contains_duplicate/contains_duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/convert_the_temperature/convert_the_temperature.iml" filepath="$PROJECT_DIR$/convert_the_temperature/convert_the_temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.iml" filepath="$PROJECT_DIR$/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" filepath="$PROJECT_DIR$/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" filepath="$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/how_many_numbers_are_smaller_than_the_current_number/how_many_numbers_are_smaller_than_the_current_number.iml" filepath="$PROJECT_DIR$/how_many_numbers_are_smaller_than_the_current_number/how_many_numbers_are_smaller_than_the_current_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" filepath="$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_common_prefix/longest_common_prefix.iml" filepath="$PROJECT_DIR$/longest_common_prefix/longest_common_prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest_palindromic_Substring/longest_palindromic_Substring.iml" filepath="$PROJECT_DIR$/longest_palindromic_Substring/longest_palindromic_Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.iml" filepath="$PROJECT_DIR$/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" filepath="$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/missing_number/missing_number.iml" filepath="$PROJECT_DIR$/missing_number/missing_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/number_of_steps_to_reduce_a_number_to_zero/number_of_steps_to_reduce_a_number_to_zero.iml" filepath="$PROJECT_DIR$/number_of_steps_to_reduce_a_number_to_zero/number_of_steps_to_reduce_a_number_to_zero.iml" />

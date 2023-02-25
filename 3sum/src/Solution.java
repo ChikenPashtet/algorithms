@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
