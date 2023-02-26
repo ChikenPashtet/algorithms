@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be54ffd-09d4-4e6f-bae9-830371f04f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest_palindromic_Substring/longest_palindromic_Substring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3sum/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/3sum/src/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,13 +138,13 @@
       <screen x="0" y="25" width="1440" height="820" />
     </state>
     <state width="1157" height="260" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1677058574139" />
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1677309911452">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1677429137152">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1677309911452" />
-    <state x="129" y="54" key="new project wizard" timestamp="1677324240108">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1677429137152" />
+    <state x="129" y="54" key="new project wizard" timestamp="1677429933794">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1677324240108" />
+    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1677429933794" />
   </component>
 </project>

@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" filepath="$PROJECT_DIR$/first_unique_character_in_a_string/first_unique_character_in_a_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/how_many_numbers_are_smaller_than_the_current_number/how_many_numbers_are_smaller_than_the_current_number.iml" filepath="$PROJECT_DIR$/how_many_numbers_are_smaller_than_the_current_number/how_many_numbers_are_smaller_than_the_current_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" filepath="$PROJECT_DIR$/implement_stack_using_queues/implement_stack_using_queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.iml" filepath="$PROJECT_DIR$/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_common_prefix/longest_common_prefix.iml" filepath="$PROJECT_DIR$/longest_common_prefix/longest_common_prefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_palindromic_Substring/longest_palindromic_Substring.iml" filepath="$PROJECT_DIR$/longest_palindromic_Substring/longest_palindromic_Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.iml" filepath="$PROJECT_DIR$/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/simplify_path/simplify_path.iml" filepath="$PROJECT_DIR$/simplify_path/simplify_path.iml" />
       <module fileurl="file://$PROJECT_DIR$/single_number/single_number.iml" filepath="$PROJECT_DIR$/single_number/single_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" filepath="$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqrt_x/sqrt_x.iml" filepath="$PROJECT_DIR$/sqrt_x/sqrt_x.iml" />
       <module fileurl="file://$PROJECT_DIR$/subsets/subsets.iml" filepath="$PROJECT_DIR$/subsets/subsets.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" filepath="$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" />
     </modules>
