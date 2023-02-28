@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be54ffd-09d4-4e6f-bae9-830371f04f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_anagrams/group_anagrams.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -138,13 +138,13 @@
       <screen x="0" y="25" width="1440" height="820" />
     </state>
     <state width="1157" height="260" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1677058574139" />
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1677429137152">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1677580162959">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1677429137152" />
-    <state x="129" y="54" key="new project wizard" timestamp="1677429933794">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1677580162959" />
+    <state x="129" y="54" key="new project wizard" timestamp="1677580187274">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1677429933794" />
+    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1677580187274" />
   </component>
 </project>
