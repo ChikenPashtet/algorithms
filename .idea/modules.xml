@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/longest_palindromic_Substring/longest_palindromic_Substring.iml" filepath="$PROJECT_DIR$/longest_palindromic_Substring/longest_palindromic_Substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.iml" filepath="$PROJECT_DIR$/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" filepath="$PROJECT_DIR$/longest_valid_parentheses/longest_valid_parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/majority_element/majority_element.iml" filepath="$PROJECT_DIR$/majority_element/majority_element.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge_sorted_array/merge_sorted_array.iml" filepath="$PROJECT_DIR$/merge_sorted_array/merge_sorted_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/missing_number/missing_number.iml" filepath="$PROJECT_DIR$/missing_number/missing_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/number_of_steps_to_reduce_a_number_to_zero/number_of_steps_to_reduce_a_number_to_zero.iml" filepath="$PROJECT_DIR$/number_of_steps_to_reduce_a_number_to_zero/number_of_steps_to_reduce_a_number_to_zero.iml" />
