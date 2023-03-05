@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/sort_colors/sort_colors.iml" filepath="$PROJECT_DIR$/sort_colors/sort_colors.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqrt_x/sqrt_x.iml" filepath="$PROJECT_DIR$/sqrt_x/sqrt_x.iml" />
       <module fileurl="file://$PROJECT_DIR$/subsets/subsets.iml" filepath="$PROJECT_DIR$/subsets/subsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top_k_frequent_elements/top_k_frequent_elements.iml" filepath="$PROJECT_DIR$/top_k_frequent_elements/top_k_frequent_elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid_anagram/valid_anagram.iml" filepath="$PROJECT_DIR$/valid_anagram/valid_anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" filepath="$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" />
     </modules>
