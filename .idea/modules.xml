@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/top_k_frequent_elements/top_k_frequent_elements.iml" filepath="$PROJECT_DIR$/top_k_frequent_elements/top_k_frequent_elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid_anagram/valid_anagram.iml" filepath="$PROJECT_DIR$/valid_anagram/valid_anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" filepath="$PROJECT_DIR$/valid_parentheses/valid_parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid_sudoku/valid_sudoku.iml" filepath="$PROJECT_DIR$/valid_sudoku/valid_sudoku.iml" />
     </modules>
   </component>
 </project>
