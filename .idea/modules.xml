@@ -31,8 +31,10 @@
       <module fileurl="file://$PROJECT_DIR$/number_of_steps_to_reduce_a_number_to_zero/number_of_steps_to_reduce_a_number_to_zero.iml" filepath="$PROJECT_DIR$/number_of_steps_to_reduce_a_number_to_zero/number_of_steps_to_reduce_a_number_to_zero.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome_linked_list/palindrome_linked_list.iml" filepath="$PROJECT_DIR$/palindrome_linked_list/palindrome_linked_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome_number/palindrome_number.iml" filepath="$PROJECT_DIR$/palindrome_number/palindrome_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permutations/permutations.iml" filepath="$PROJECT_DIR$/permutations/permutations.iml" />
       <module fileurl="file://$PROJECT_DIR$/plus_one/plus_one.iml" filepath="$PROJECT_DIR$/plus_one/plus_one.iml" />
       <module fileurl="file://$PROJECT_DIR$/remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.iml" filepath="$PROJECT_DIR$/remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rotate_image/rotate_image.iml" filepath="$PROJECT_DIR$/rotate_image/rotate_image.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplify_path/simplify_path.iml" filepath="$PROJECT_DIR$/simplify_path/simplify_path.iml" />
       <module fileurl="file://$PROJECT_DIR$/single_number/single_number.iml" filepath="$PROJECT_DIR$/single_number/single_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" filepath="$PROJECT_DIR$/sliding_window_maximum/sliding_window_maximum.iml" />
