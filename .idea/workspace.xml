@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5be54ffd-09d4-4e6f-bae9-830371f04f45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/permutations/permutations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotate_image/rotate_image.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximum_subarray/maximum_subarray.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -34,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -157,16 +157,16 @@
       <screen x="0" y="25" width="1440" height="820" />
     </state>
     <state width="1213" height="260" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1678650736803" />
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1678735749857">
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1678993142561">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1678735749857" />
+    <state x="403" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1678993142561" />
     <state x="403" y="265" key="com.intellij.ide.util.TipDialog/0.25.1440.821@0.25.1440.821" timestamp="1678198385549" />
     <state x="403" y="265" key="com.intellij.ide.util.TipDialog/0.25.1440.822@0.25.1440.822" timestamp="1678021528155" />
-    <state x="129" y="54" key="new project wizard" timestamp="1678737451895">
+    <state x="129" y="54" key="new project wizard" timestamp="1678993238062">
       <screen x="0" y="25" width="1440" height="820" />
     </state>
-    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1678737451895" />
+    <state x="129" y="54" key="new project wizard/0.25.1440.820@0.25.1440.820" timestamp="1678993238062" />
     <state x="129" y="54" key="new project wizard/0.25.1440.821@0.25.1440.821" timestamp="1678198411932" />
     <state x="129" y="54" key="new project wizard/0.25.1440.822@0.25.1440.822" timestamp="1678021557654" />
     <state x="351" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1678641604932">
